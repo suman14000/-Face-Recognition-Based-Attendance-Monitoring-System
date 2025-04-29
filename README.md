@@ -1,4 +1,5 @@
 #Attendance Management System using Face Recognition
+
 This project is a Face Recognition Based Attendance Monitoring System designed to automate attendance tracking in classrooms or organizations using facial recognition technology. The system captures student images, recognizes faces in real-time, and marks attendance efficiently while generating daily and weekly reports.
 
 📷 Features
